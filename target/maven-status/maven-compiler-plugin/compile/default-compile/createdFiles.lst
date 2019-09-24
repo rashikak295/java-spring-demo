@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\controllers\UserGetById.class
+com\example\controllers\UserDelete.class
+com\example\controllers\UserInsert.class
+com\example\controllers\UsersRetrieve.class
+com\example\beans\User.class
+com\example\beans\userAdd.class
